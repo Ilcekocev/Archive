@@ -13,8 +13,8 @@
 
 За елементите за архивирање треба да се обезбедат следните методи:
 
-* LockedArchive(int id, Date dateToOpen) - конструктор за заклучена архива
-* SpecialArchive(int id, int maxOpen) - конструктор за специјална архива
+* **LockedArchive(int id, Date dateToOpen)** - конструктор за заклучена архива
+* **SpecialArchive(int id, int maxOpen)** - конструктор за специјална архива
 
 За класата ArchiveStore да се обезбедат следните методи:
 
