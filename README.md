@@ -30,3 +30,5 @@
 При отварање ако се работи за **LockedArhive** и датумот на отварање е пред датумот кога може да се отвори,
 да се додаде порака **Item [id] cannot be opened before [date]**. Ако се работи за **SpecialArhive** и се обидиеме да ја
 отвориме повеќе пати од дозволениот број (maxOpen) да се додаде порака **Item [id] cannot be opened more than [maxOpen] times**.
+
+Read this: http://www.javapractices.com/topic/TopicAction.do?Id=31
